@@ -31,13 +31,6 @@ A high-performance, visually stunning remake of the classic Pong game, featuring
 ---
 
 ## 🚀 How to Play
-
-### 1. Standalone (Windows)
-No Python installation required! Just download and run the binary:
-- Navigate to the `dist/` folder.
-- Run **`PONG.exe`**.
-
-### 2. From Source
 If you prefer running the script directly:
 1. Ensure you have Python 3.12+ and Pygame installed:
    ```bash
@@ -65,4 +58,5 @@ If you prefer running the script directly:
 - **S**: Move Paddle Down
 - **ESCAPE**: Pause / Menu
 - **SPACE**: Continue (on goal or pause)
+
 
